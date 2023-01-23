@@ -1,6 +1,7 @@
+# pkg upgrade
+# pkg install git python
 # pkg install python2 
 # pkg install python1
 # git clone https://github.com/Edris231/Facebook-Extraction-afg
-# README.safi12
-# ls -is
-# README.safi12
+# cd afg
+# python afg.py
